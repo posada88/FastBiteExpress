@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="pilas y colas/pilas y colas.vcxproj" Id="74e5359f-bffb-4510-ad5d-7598ecdd6b0e" />
+</Solution>
